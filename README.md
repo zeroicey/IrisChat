@@ -1,15 +1,15 @@
-# irischat
+# Irischat
 
-To install dependencies:
+## Tech stack
 
-```bash
-bun install
-```
+### Frontend
 
-To run:
+- Javascript
+- Vue.js
+- Websocket
 
-```bash
-bun run index.ts
-```
+### Backend
 
-This project was created using `bun init` in bun v1.2.10. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+- Golang
+- Websocket
+- PostgreSQL
